@@ -4,5 +4,6 @@ namespace ModelObjet
 {
     public class Class1
     {
+
     }
 }
